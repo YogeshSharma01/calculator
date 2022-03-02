@@ -1,0 +1,56 @@
+body {
+    background-image: url('https://i.gifer.com/embedded/download/I7Xf.gif');
+    background-repeat: no-repeat;
+    background-size: 100% 140%;
+}
+
+.cal_body {
+    border: 2px solid #635B74;
+    border-radius: 20px;
+    height: 60vh;
+    width: 30vh;
+    margin-left: 40%;
+    background: #97A09B;
+}
+
+#output {
+    background-color: #D5E6E5;
+    border-radius: 10px 10px 10px 10px;
+    width: 98%;
+    margin-left: 2.5px;
+    height: 20%;
+    font-size: 30px;
+    font-family: 'Syne Mono', monospace;
+    border: none;
+}
+
+.normal {
+    width: 50px;
+    height: 50px;
+    border: none;
+    background-color: #EAE9EE;
+    color: #606061;
+    border-radius: 30% 30% 50% 50%;
+
+}
+
+.extra {
+    background-color: #7B7599;
+    color: white;
+}
+
+
+.text-cal {
+    font-size: 28px;
+    font-family: 'Syne Mono', monospace;
+    margin-top: 2px;
+}
+
+.img-cal {
+    height: 50px;
+    border-radius: 50%;
+}
+
+.box_line {
+    margin-left: 16px;
+}
